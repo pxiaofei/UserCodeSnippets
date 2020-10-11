@@ -6,14 +6,16 @@
 	<string>strong</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic ,strong) &lt;#pType#&gt; *&lt;#pName#&gt;;</string>
+	<string>@property (nonatomic, strong) &lt;#pType#&gt; *&lt;#pName#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A2F8D455-4C6A-4486-BBF3-9F2B0F95066C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>strong</string>
 	<key>IDECodeSnippetUserSnippet</key>

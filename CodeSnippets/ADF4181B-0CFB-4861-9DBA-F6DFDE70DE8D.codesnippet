@@ -6,10 +6,10 @@
 	<string>copy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic ,copy) NSString *&lt;#pName#&gt;;</string>
+	<string>@property (nonatomic, copy) NSString *&lt;#pName#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ADF4181B-0CFB-4861-9DBA-F6DFDE70DE8D</string>
 	<key>IDECodeSnippetLanguage</key>
